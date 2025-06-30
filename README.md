@@ -2,7 +2,6 @@
 
 <div>
 
-<img align="right" width="400" alt="João Fullstack" src="https://i.imgur.com/aNBi8Jf.png"/>
 
 <h2> / sobre mim /</h2>
 
