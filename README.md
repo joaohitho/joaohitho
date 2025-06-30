@@ -74,8 +74,4 @@
 
 ---
 
-<div align="right">
-<a href="https://www.pixiv.net/en/users/35069640">Imagem por 前髪</a>
-</div>
-
 </div>
