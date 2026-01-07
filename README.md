@@ -2,7 +2,7 @@
 <div>
 
 
-<h2> / sobre mim /</h2>
+<h2> / about me /</h2>
 
 - 👋 Olá! Sou **João**, desenvolvedor **Fullstack**
 - 🚀 Mais de **5 anos** de experiência entregando soluções digitais completas
