@@ -1,16 +1,14 @@
-
 <div>
+  <h2>/about me</h2>
 
+  <sub>
+  +7 anos construindo software e aprendendo todos os dias.<br>
+  cybersegurança, devops, saas/baas e fintechs.<br>
+  mobile, web e desktop.<br>
+  c#, .net, node.js, apis e microsserviços.<br>
+  sql e nosql.
+  </sub>
 
-<h2>/about me</h2>
-
-  +7 anos desenvolvendo e aprendendo todos os dias.  
-  experiência em cybersegurança, devops,
-  arquiteturas SaaS/BaaS, fintechs,
-  sistemas mobile, web e desktop,
-  além de bancos de dados SQL e NoSQL.
-  C#, .NET, Node.js, APIs REST, Microsserviços
 ---
-
 
 </div>
